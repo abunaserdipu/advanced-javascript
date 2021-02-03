@@ -28,3 +28,4 @@ console.log(sir.address);
 //undefined6
 const number = [3, 5, 7];
 console.log(number[9]);
+
